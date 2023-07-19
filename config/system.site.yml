@@ -1,0 +1,14 @@
+uuid: 4d4ea1c1-3ffd-4cc8-a1c3-249ebda55ad7
+name: 123ellen123
+mail: ellengrace.samson@pantheon.io
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yTxtFqBHnEWxQswuWvkjE8mKw2t8oKuCL1q8KnfHuGE
